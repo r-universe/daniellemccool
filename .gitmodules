@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "stopdetection"]
+	path = stopdetection
+	url = https://github.com/daniellemccool/stopdetection
+	shallow = true
+	registered = true
+[submodule "topdowntimeratio"]
+	path = topdowntimeratio
+	url = https://github.com/daniellemccool/topdowntimeratio
+	shallow = true
+	registered = true

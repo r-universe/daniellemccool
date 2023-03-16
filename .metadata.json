@@ -1,0 +1,10 @@
+[
+  {
+    "package": "stopdetection",
+    "oncran": true
+  },
+  {
+    "package": "topdowntimeratio",
+    "oncran": true
+  }
+]
