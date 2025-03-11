@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "stopdetection"]
-	path = stopdetection
-	url = https://github.com/daniellemccool/stopdetection
 [submodule "topdowntimeratio"]
 	path = topdowntimeratio
 	url = https://github.com/daniellemccool/topdowntimeratio
